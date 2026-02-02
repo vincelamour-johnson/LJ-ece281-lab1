@@ -27,7 +27,7 @@ Insert your truth table here
 ### Boolean Equation
 
 $$
-Y = ?
+Y = A'D+AD'
 $$
 
 ### Digital Simulations
