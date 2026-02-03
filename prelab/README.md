@@ -38,6 +38,9 @@ Complete all three circuits using the various approaches (generic multiplexer sy
 
 You may also wish to run test cases.  The first two rows of the truth table have been added to the Digital simulation files as a test.  You may wish to edit the test to add more rows and fully cover all possible cases but this is not required.
 
+## Documentation:
+I recieved help from Alex and Aiden from my class period to understand how to draw and simulate the 8:1 MUX gate. I used the textbook from this class. I used a jpg to png converter: https://jpg2png.com/. I used a website to understand \overline commands: https://tex.stackexchange.com/questions/22100/the-bar-and-overline-commands. I used nothing else for this prelab.
+
 ## Submission
 
 1. Make sure all prelab files are in this folder
